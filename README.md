@@ -18,3 +18,6 @@ React, Next.js, Tailwind, Typescript, zod, React Query, tRPC, SQL, Relational Da
 **- Used before:**\
 Redux, Redux-Saga, Styled-components, Astro, Chakra UI, Supabase, Express, Apollo GraphQL
 
+## 🤝 Communities
+
+[![Theo Discord](https://img.shields.io/badge/Theo's%20Typesafe%20Cult-%23333?logo=discord&logoColor=%23FFF)](https://discord.com/invite/xHdCpcPHRE)
